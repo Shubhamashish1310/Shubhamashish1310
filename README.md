@@ -49,6 +49,15 @@ Hi! I'm **Shubham Kumar**, a passionate software developer who loves building sc
 
 ## 🌟 Featured Projects
 
+### 🔹 [Flight Services API](https://github.com/Shubhamashish1310/flight-services-api)
+
+> A robust flight booking backend API built with layered architecture and authentication
+> 🛠️ Tech: Node.js, Express.js, MongoDB, Mongoose, JWT, Swagger, Postman
+
+* Designed a clean architecture with **Schema ➝ Repository ➝ Service ➝ Controller** flow
+* Implemented JWT-based auth, search filters, and proper error handling middleware
+* Fully documented using Swagger & tested via Postman collections
+
 ### 🔹 [SlackChat Pro](https://github.com/Shubhamashish1310/SlackChatPro)  
 > Real-time messaging app with channels, subscriptions, and secure media sharing  
 🛠️ Tech: Node.js, MongoDB, Redis, AWS S3, Socket.IO, Razorpay  
